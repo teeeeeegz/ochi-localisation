@@ -8,36 +8,83 @@
 
 // Get Filter State
 "9LSQbV" = "Get Filter State";
+"2qb1TH" = "Get Filter State";
+"v25F2P" = "Get Filter State";
 "2EPYkz" = "Return filter state and active filters";
+"XwnZo6" = "Filters are %@ and %@.";
+"De800F" = "active";
+"BLoHc7" = "inactive";
+"sUN6jS" = "suspended";
+"8GJStJ" = "not suspended";
+"GW8exx" = "Unable to check whether filters are active.";
 
 // App Open Check
 "jZg7it" = "App Open Check";
+"TcjDnE" = "app";
 "nVsZPL" = "Check whether a particular app or category of apps can be opened, and close it if not. Attach this shortcut to an App Is Opened automation.";
+"1HgOB1" = "Check if %@ can be opened"; // {App Name}
+"ceZb4Q" = "This shortcut can only be run on iOS.";
 
 // Suspend Filter
 "pJE1LD" = "Suspend Filter";
 "NStZzj" = "Suspend the current filters. Available in Ochi Pro.";
+"R5nM1G" = "minutes";
+"WxhIIk" = "Suspend filter for %lld minutes";
+"zdVmZk" = "suspended";
+"ZwbwHT" = "not suspended";
+"rTVepJ" = "Available Suspend Minutes";
+"MiHbIH" = "Filter suspended.";
+"5FbY0P" = "A filter is not active.";
+"gyh0MT" = "%lld suspend minutes remain."; // {available suspend minutes}
+"1em6Hk" = "Filtering is already suspended.";
+"fHA8KZ" = "Upgrade to Ochi Pro to suspend filters.";
 
 // Stop Filter
 "rhPghI" = "Stop Filter";
 "57y1Ja" = "Stop an active filter.";
+"w3Ih1U" = "Filter";
+"iwhiuC" = "Stop %@?"; // {Filter Name}
+"T7cFWl" = "Stop %@"; // {Filter}
+"FoRQO1" = "Filter stopped.";
+"VHZD4M" = "Unable to stop filter.";
+"xdbVpB" = "Timed filters can't be ended early.";
+"2HyoJx" = "The selected filter is currently not active.";
 
 // Stop Untimed Filters
 "5FLW59" = "Stop Untimed Filters";
 "4SUQCN" = "Stop all active untimed filters.";
+"Dn4J7U" = "Stop all untimed filters";
+"FoRQO1" = "Untimed filters stopped.";
+"VHZD4M" = "Unable to stop filters.";
 
 // Start Filter
 "lajVbc" = "Start Filter";
 "ilf1DT" = "Start a filter.";
 "rgoxTU" = "Filter Type";
+"wIzUCQ" = "Filter";
+"r761e4" = "Start %@?";
+"5E23uh" = "Turn %@ on for %lld minutes"; // {Filter} {5}
+"qOyG4q" = "Start %@"; // {Filter}
+"HynDu8" = "%@ %@."; // {Filter Name} {Is Active}
+"dYr2Gh" = "Unable to start %@."; // {Filter Name}
+"4Nd0Ho" = "You can't update a filter that ends earlier.";
+"TMjTlm" = "Upgrade to Ochi Pro apply multiple filters.";
+"yEwl14" = "A matching current timed filter can't be set to untimed.";
+"dKfS1q" = "A duration must be set before starting a timed filter.";
+"e4bjKu" = "Unable to load %@ details."; // {Filter Details}
+"0yruNN" = "is active";
+"nLXlSN" = "is not active";
 
 // Current Filters Configuration
 "p0o4Bz" = "Current Filters Configuration";
 "FeCIpu" = "Observe the current filter state.";
+"jeSsjh" = "Theme";
 
 // Start Filter Configuration
 "6fb7ol" = "Start Filter Configuration";
 "De20y3" = "Start a filter.";
+"tk1icu" = "Filters";
+"RFDzhw" = "Theme";
 
 // Filter Type
 "xj8bQ3" = "Untimed";

@@ -137,7 +137,7 @@
 "FILTER_NOMACAPPS" = "No Mac apps added.";
 "FILTER_NOWEBSITES" = "No websites added.";
 "FILTER_FOOTER_SAFARISUPPORTED" = "Safari supported with enabled Ochi web extension.";
-"FILTER_STARTEDAT" = "Started at %@";
+"FILTER_STARTEDAT %@" = "Started at %@";
 "FILTER_START" = "Start %@";
 "FILTER_CONFIRMSTOP" = "Are you sure you want to stop this filter?";
 "FILTER_ADDMACAPP" = "Add Mac App";
@@ -165,7 +165,7 @@
 "SETTING_SUSPEND_DESCRIPTION" = "Set a limit for how long filters can be suspended, per hour(s).";
 "SETTING_TIMEDFILTERING_TITLE" = "Timed Filtering";
 "SETTING_TIMEDFILTERING_GRACEPERIOD_1" = "Stop Filter Grace Period";
-"SETTING_TIMEDFILTERING_GRACEPERIOD_2" = "Allows timed filters to be cancelled within the first minute of starting.";
+"SETTING_TIMEDFILTERING_GRACEPERIOD_2" = "Stop timed filters within the first minute of starting.";
 "SETTING_NOTIFICATIONS_TITLE" = "Notifications";
 "SETTING_NOTIFICATIONS_ENABLE" = "Enable Notification Permissions";
 "SETTING_NOTIFICATIONS_APPBLOCKED" = "App Blocked";
@@ -292,8 +292,8 @@
 "WEBSITECATEGORY_FOOTER" = "Website Categories are only applied for the blocking action.";
 
 "STARTFILTER_NOFILTERS" = "No Filters Created";
-"STARTFILTER_CONFIGURATION_FOOTER_GRACEPERIOD_ACTIVE" = "Timed filters can be cancelled within the first minute of starting.";
-"STARTFILTER_CONFIGURATION_FOOTER_GRACEPERIOD_INACTIVE" = "Timed filters can only be temporarily suspended after starting.";
+"STARTFILTER_CONFIGURATION_FOOTER_GRACEPERIOD_ACTIVE" = "Timed filters can only be stopped within the first minute of starting.";
+"STARTFILTER_CONFIGURATION_FOOTER_GRACEPERIOD_INACTIVE" = "Timed filters can only be temporarily suspended, not stopped.";
 "STARTFILTER_ERROR_TITLE" = "Start Filter Error";
 "STARTFILTER_ERROR_REPLACETIMEDWITHUNTIMED" = "An untimed filter can't replace an active timed filter.";
 "STARTFILTER_ERROR_UPDATEWITHSHORTERDURATION" = "An active filter's duration can't be reduced.";
@@ -356,7 +356,7 @@
 
 "PERMISSION_BIOMETRICS" = "Enable/Disable editing and/or viewing filter details.";
 
-"FILTERSTATS_DIFFERENCEYESTERDAY" = "%@ from yesterday";
+"FILTERSTATS_DIFFERENCEYESTERDAY %lld" = "%lld from yesterday";
 
 "SIDEBAR_EMPTYSTATE" = "Select a filter.";
 "SIDEBAR_CREATEFILTER" = "Create a filter!";
@@ -369,7 +369,7 @@
 "SCHEDULE_NONE" = "No Scheduled Filters";
 
 "NEWSCHEDULE_ADDNOTES" = "Add Notes";
-"NEWSCHEDULE_TIMEDFILTERDISCLAIMER" = "Untimed filters cannot replace active Timed filters. Scheduled filters are limited to 12 hours.";
+"NEWSCHEDULE_TIMEDFILTERDISCLAIMER" = "Timed filters can only be temporarily suspended, not stopped. Scheduled filters are limited to 12 hours.";
 "NEWSCHEDULE_REPEATDAYS" = "Repeat Days";
 "NEWSCHEDULE_AUTOSTARTMATCHING_TITLE" = "Current Time Matching";
 "NEWSCHEDULE_AUTOSTARTMATCHING_MESSAGE" = "This filter is scheduled to begin now. Do you want to start the filter?";
@@ -393,7 +393,7 @@
 
 "SUSPENDFILTER_FOR" = "Suspend for";
 "SUSPENDFILTER_DISABLED_1" = "Suspend Filter disabled.";
-"SUSPENDFILTER_DISABLED_2" = "Adjust suspend values in Settings.";
+"SUSPENDFILTER_DISABLED_2" = "Configure suspend values in Preferences before starting a filter.";
 "SUSPENDFILTER_USED" = "%@ minutes used, from %@ available minutes.";
 
 "WIDGET_CURRENTFILTERS_TITLE" = "Current Filters Widget";
