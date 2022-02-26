@@ -1,0 +1,430 @@
+/* 
+  Localizable.strings
+  Ochi
+
+  Created by Michael Tigas on 20/1/2022.
+  
+*/
+
+"APP_NAME" = "Ochi";
+
+"TITLE_DASHBOARD" = "Dashboard";
+"TITLE_FILTERS" = "Filters";
+"TITLE_NEWFILTER" = "New Filter";
+"TITLE_SETTINGS" = "Settings";
+"TITLE_PREFERENCES" = "Preferences";
+"TITLE_SELECTAPPS" = "Select Apps";
+"TITLE_ADDWEBSITE" = "Add Website";
+"TITLE_EDITWEBSITE" = "Edit Website";
+"TITLE_RENAMEFILTER" = "Rename Filter";
+"TITLE_DUPLICATEFILTER" = "Duplicate Filter";
+"TITLE_STARTFILTER" = "Start a Filter";
+"TITLE_SUSPENDFILTER" = "Suspend Filter";
+"TITLE_CONFIGUREAPPBLOCKING" = "Configure App Blocking";
+"TITLE_ENABLEWEBEXTENSION" = "Enable Website Blocking";
+"TITLE_UPGRADETOPRO" = "Upgrade to Ochi Pro";
+"TITLE_NEWAPP" = "New App or Category";
+"TITLE_MYSCHEDULE" = "My Schedule";
+"TITLE_SCHEDULEFILTER" = "Schedule Filter";
+"TITLE_UPDATESCHEDULE" = "Update Schedule";
+
+"HEADER_RECOMMENDEDAPPS" = "Recommended Apps";
+"HEADER_SELECTCATEGORIES" = "Select categories";
+"HEADER_CONFIGURATION" = "Configuration";
+
+"ACTION_DISMISS" = "Dismiss";
+"ACTION_CANCEL" = "Cancel";
+"ACTION_SAVE" = "Save";
+"ACTION_OK" = "OK";
+"ACTION_START" = "Start";
+"ACTION_ADD" = "Add";
+"ACTION_DELETE" = "Delete";
+"ACTION_RENAME" = "Rename";
+"ACTION_DUPLICATE" = "Duplicate";
+"ACTION_SUSPEND" = "Suspend";
+"ACTION_QUIT" = "Quit";
+"ACTION_SHOW" = "Show";
+"ACTION_RESTOREPURCHASES" = "Restore Purchases";
+"ACTION_REDEEMCODE" = "Redeem Code";
+"ACTION_CONTINUE" = "Continue";
+"ACTION_DONE" = "Done";
+"ACTION_STARTFILTER" = "Start Filter";
+"ACTION_STOPFILTER" = "Stop Filter";
+"ACTION_READMORE" = "Read More";
+"ACTION_CLOSE" = "Close";
+"ACTION_LOCK" = "Lock";
+"ACTION_UNLOCK" = "Unlock";
+"ACTION_NEW" = "New";
+"ACTION_EDIT" = "Edit";
+"ACTION_OPEN" = "Open";
+"ACTION_CLEAR" = "Clear";
+"ACTION_RUNSHORTCUT" = "Run Shortcut";
+"ACTION_SKIP" = "Skip";
+"ACTION_SELECT" = "Select";
+"ACTION_VIEW" = "View";
+"ACTION_STOP" = "Stop";
+"ACTION_OPENSETTINGS" = "Open Settings";
+"ACTION_OPENPREFERENCES" = "Open Preferences";
+"ACTION_ENABLE" = "Enable";
+"ACTION_DISABLE" = "Disable";
+
+"TERM_ADDED" = "Added";
+"TERM_ABOUT" = "About";
+"TERM_TODAY" = "Today";
+"TERM_PASTWEEK" = "Past Week";
+"TERM_ENABLED" = "Enabled";
+"TERM_GENERAL" = "General";
+"TERM_LOCKED" = "Locked";
+"TERM_UNLOCKED" = "Unlocked";
+"TERM_RECOMMENDEDAPPS" = "Recommended Apps";
+"TERM_MYAPPS" = "My Apps";
+"TERM_PRO" = "Pro";
+"TERM_NAME" = "Name";
+"TERM_FILTER" = "Filter";
+"TERM_TIMED" = "Timed";
+"TERM_UNTIMED" = "Untimed";
+"TERM_DURATION" = "Duration";
+"TERM_STARTTIME" = "Start Time";
+"TERM_ENDTIME" = "End Time";
+"TERM_UNTIL" = "Until";
+"TERM_EMAIL" = "Email";
+"TERM_ACTIVE" = "Active";
+"TERM_PER" = "per";
+"TERM_SUSPENDED" = "Suspended";
+"TERM_WEBSITE" = "Website";
+"TERM_BY" = "by";
+"TERM_ACTION" = "Action";
+"TERM_WEBSITES" = "Websites";
+"TERM_CATEGORIES" = "Categories";
+"TERM_APP" = "App";
+"TERM_APPS" = "Apps";
+"TERM_LISTENING" = "Listening";
+"TERM_NOTENABLED" = "Not Enabled";
+"TERM_AUTOMATIONS" = "Automations";
+"TERM_NOTES" = "Notes";
+
+"PHRASE_OCHIPRO" = "Ochi Pro";
+"PHRASE_MADEWITHLOVE" = "Made with ❤️ in Australia by";
+"PHRASE_MADEWITHLOVE_TEXT" = "Made with love in Australia by";
+"PHRASE_ACROSSALLDEVICES" = "Across all devices";
+"PHRASE_CONFIRMSTOPFILTER" = "Confirm Stop Filter";
+"PHRASE_NOFILTERS" = "No Filters";
+"PHRASE_UPGRADETO" = "Upgrade to";
+"PHRASE_SUPPORTINDIE" = "Support Indie Development";
+"PHRASE_SHAREOCHI" = "Share Ochi";
+"PHRASE_IOSAPPS" = "iOS Apps";
+"PHRASE_MACAPPS" = "Mac Apps";
+"PHRASE_MAYBELATER" = "Maybe Later";
+"PHRASE_NONAME" = "No Name";
+
+"ALERT_FILTERACTIVE_APPBLOCKED_TITLE" = "Filter Active - App Blocked";
+"ALERT_FILTERACTIVE_APPBLOCKED_BODY" = "You're not allowed to access this app right now.";
+"ALERT_FILTERACTIVE_WEBSITEBLOCKED_TITLE" = "Filter Active - Website Blocked";
+"ALERT_FILTERACTIVE_WEBSITEBLOCKED_BODY" = "You're not allowed to access this website right now.";
+
+"FILTER_ALLOWING_WEBSITES_APPS" = "Allowing %@ and %@.";
+"FILTER_ALLOWING_NO_WEBSITES_APPS" = "Allowing no websites or apps.";
+"FILTER_BLOCKING_WEBSITES_APPS" = "Blocking %@ and %@.";
+"FILTER_BLOCKING_WEBSITES_CATEGORIES" = "Blocking %@, %@.";
+"FILTER_BLOCKING" = "Blocking %@.";
+"FILTER_ALLOWING" = "Allowing %@.";
+"FILTER_BLOCKING_WEBSITES_CATEGORIES_APPS" = "Blocking %@, %@, and %@.";
+"FILTER_NOTCONFIGURED" = "Filter not configured.";
+"FILTER_ACTIVE" = "Filter Active";
+"FILTER_INACTIVE" = "Filter Inactive";
+"FILTER_SUSPENDED" = "Filtering Suspended";
+"FILTER_NOIOSAPPS" = "No iOS apps added.";
+"FILTER_NOMACAPPS" = "No Mac apps added.";
+"FILTER_NOWEBSITES" = "No websites added.";
+"FILTER_FOOTER_SAFARISUPPORTED" = "Safari supported with enabled Ochi web extension.";
+"FILTER_STARTEDAT" = "Started at %@";
+"FILTER_START" = "Start %@";
+"FILTER_CONFIRMSTOP" = "Are you sure you want to stop this filter?";
+"FILTER_ADDMACAPP" = "Add Mac App";
+"FILTER_ADDIOSAPP" = "Add iOS App";
+
+"LABEL_AVOIDEDDISTRACTIONS %lld" = "Avoided %lld distractions.";
+"LABEL_MINUTES" = "minutes";
+"LABEL_SUPPORTEDBROWSERS" = "Supported Browsers: Safari, Chrome, Edge, Brave, Opera.";
+
+"CATEGORY_CHAT" = "Chat";
+"CATEGORY_NEWS" = "News";
+"CATEGORY_SOCIALMEDIA" = "Social Media";
+
+"SETTING_MAC_LAUNCH_TITLE" = "Launch at login";
+"SETTING_MAC_LAUNCH_DESCRIPTION" = "Re-apply active filters after computer restart.";
+"SETTING_WEBSITEREDIRECT_MAC_TITLE" = "Redirect websites to";
+"SETTING_WEBSITEREDIRECT_IOS_TITLE" = "Website Redirect";
+"SETTING_WEBSITEREDIRECT_IOS_DESCRIPTION" = "Redirect to";
+"SETTING_WEBSITEREDIRECT_IOS_FOOTER" = "Display an alternate website when a blocked website is opened.";
+"SETTING_FILTERPRIVACY_TITLE" = "Filter Privacy";
+"SETTING_FILTERPRIVACY_FOOTER_IOS %@" = "Use %@ or Apple Watch to lock and hide filter details.";
+"SETTING_FILTERPRIVACY_FOOTER_MAC" = "Use Touch ID or Apple Watch to lock and hide filter details.";
+"SETTING_FILTERPRIVACY_DESCRIPTION" = "Require authentication to";
+"SETTING_SUSPEND_TITLE" = "Suspend Filtering";
+"SETTING_SUSPEND_DESCRIPTION" = "Set a limit for how long filters can be suspended, per hour(s).";
+"SETTING_TIMEDFILTERING_TITLE" = "Timed Filtering";
+"SETTING_TIMEDFILTERING_GRACEPERIOD_1" = "Stop Filter Grace Period";
+"SETTING_TIMEDFILTERING_GRACEPERIOD_2" = "Allows timed filters to be cancelled within the first minute of starting.";
+"SETTING_NOTIFICATIONS_TITLE" = "Notifications";
+"SETTING_NOTIFICATIONS_ENABLE" = "Enable Notification Permissions";
+"SETTING_NOTIFICATIONS_APPBLOCKED" = "App Blocked";
+"SETTING_NOTIFICATIONS_WEBSITEBLOCKED" = "Website Blocked";
+"SETTING_NOTIFICATIONS_SUSPENDFILTER_1" = "Suspend Filter Ending";
+"SETTING_NOTIFICATIONS_SUSPENDFILTER_2" = "Display a One Minute Remaining reminder.";
+"SETTING_CHECKLIST_TITLE" = "Set Up Checklist";
+"SETTING_CONTACT_TITLE" = "Contact";
+"SETTING_ABOUT_FOOTER_INDIEAPPS" = "Check out my other indie apps.";
+"SETTING_ABOUT_PRIVACY" = "Privacy Policy";
+"SETTING_ABOUT_NEWSLETTER_1" = "Join the Newsletter";
+"SETTING_ABOUT_NEWSLETTER_2" = "Receive monthly updates. Zero spam.";
+"SETTING_ABOUT_REVIEW" = "Leave an App Store Review";
+"SETTING_ABOUT_VERSION %@" = "Version %@";
+
+
+"SHARE_APPSTORE" = "Download Ochi on the App Store!";
+
+"DAY_MONDAY" = "Monday";
+"DAY_TUESDAY" = "Tuesday";
+"DAY_WEDNESDAY" = "Wednesday";
+"DAY_THURSDAY" = "Thursday";
+"DAY_FRIDAY" = "Friday";
+"DAY_SATURDAY" = "Saturday";
+"DAY_SUNDAY" = "Sunday";
+
+"DAY_SHORT_MONDAY" = "Mon";
+"DAY_SHORT_TUESDAY" = "Tue";
+"DAY_SHORT_WEDNESDAY" = "Wed";
+"DAY_SHORT_THURSDAY" = "Thu";
+"DAY_SHORT_FRIDAY" = "Fri";
+"DAY_SHORT_SATURDAY" = "Sat";
+"DAY_SHORT_SUNDAY" = "Sun";
+
+"UPSELL_INTRO1" = "Ochi is made by me, Michael! 👋";
+"UPSELL_INTRO2" = "I created it to help people stay focused and spend their time wisely. (me included! 🙂)";
+
+"ERROR_GENERAL" = "Error";
+"ERROR_PURCHASE" = "Purchase Error";
+"ERROR_RESTOREPURCHASE" = "Restore Purchase Error";
+
+"ERROR_COMPOSEEMAIL_TITLE" = "Unable to compose an email";
+"ERROR_COMPOSEEMAIL_MESSAGE %@" = "Mail app isn't set up. Please email %@ from your favorite email client.";
+"ERROR_COMPOSEEMAIL_ACTION" = "Copy Email Address";
+
+"UPSELL_BANNER_TITLE" = "Unlock all features";
+"UPSELL_LIFETIME_PREFIX" = "You've permanently unlocked";
+"UPSELL_SUBSCRIPTION_PREFIX" = "You've unlocked";
+"UPSELL_LIFETIMEPURCHASED" = "Lifetime Purchased ❤️";
+"UPSELL_SUBSCRIBEDUNTIL" = "Subscribed until";
+"UPSELL_COMINGSOON" = "Coming Soon";
+"UPSELL_TERMS" = "Terms";
+"UPSELL_PRIVACY" = "Privacy";
+
+"PURCHASE_SUBSCRIPTION_TRIAL_DAY" = "%d day free trial";
+"PURCHASE_SUBSCRIPTION_TRIAL_WEEK" = "%d week free trial";
+"PURCHASE_SUBSCRIPTION_TRIAL_MONTH" = "%d month free trial";
+"PURCHASE_SUBSCRIPTION_TRIAL_YEAR" = "%d year free trial";
+
+"PURCHASE_TYPE_LIFETIME" = "Lifetime";
+"PURCHASE_TYPE_CUSTOM" = "Custom";
+"PURCHASE_TYPE_ANNUAL" = "Annual";
+"PURCHASE_TYPE_6MONTH" = "6 Month";
+"PURCHASE_TYPE_3MONTH" = "3 Month";
+"PURCHASE_TYPE_2MONTH" = "2 Month";
+"PURCHASE_TYPE_MONTHLY" = "Monthly";
+"PURCHASE_TYPE_WEEKLY" = "Weekly";
+"PURCHASE_TYPE_UNKNOWN" = "Unknown";
+
+"PURCHASE_PRICESUFFIX_LIFETIME" = "once";
+"PURCHASE_PRICESUFFIX_ANNUAL" = "/year";
+"PURCHASE_PRICESUFFIX_MONTHLY" = "/month";
+"PURCHASE_PRICESUFFIX_WEEKLY" = "/week";
+
+"PURCHASE_TIP_LITTLE" = "Little Tip";
+"PURCHASE_TIP_SMALL" = "Small Tip";
+"PURCHASE_TIP_MEDIUM" = "Medium Tip";
+"PURCHASE_TIP_LARGE" = "Large Tip";
+"PURCHASE_TIP_MASSIVE" = "Massive Tip";
+
+"PURCHASE_CANCELLED" = "Purchase Cancelled";
+"PURCHASE_RESTORING" = "Restoring Purchases";
+"PURCHASE_RESTORING_COMPLETE_TITLE" = "Restore Purchases completed";
+"PURCHASE_RESTORING_COMPLETE_MESSAGE" = "Ochi Pro is now active.";
+"PURCHASE_RESTORING_NONE" = "No previous purchases to restore.";
+"PURCHASE_SAVINGS_OFF" = "%d%% OFF";
+"PURCHASE_SAVINGS_SAVE" = "SAVE %d%%";
+"PURCHASE_NOTALLOWED" = "Purchases not allowed on this device.";
+
+"SHORTCUT_START_TIMEDFILTER_NAMED_PHRASE" = "Start a %@ filter, for %@";
+"SHORTCUT_START_UNTIMEDFILTER_NAMED_PHRASE" = "Start a %@ filter";
+
+"PERMISSION_NOTIFICATION_DENIED_TITLE" = "Notification Permission Denied";
+"PERMISSION_NOTIFICATION_DENIED_MESSAGE_IOS" = "You can enable Notification permissions for Ochi in the Settings app.";
+"PERMISSION_NOTIFICATION_DENIED_MESSAGE_MAC" = "You can enable Notification permissions for Ochi in System Preferences.";
+
+"PERMISSION_NOTIFICATION_PREREQUEST_STARTFILTER_TITLE" = "App & Website Filter Reminders";
+"PERMISSION_NOTIFICATION_PREREQUEST_STARTFILTER_MESSAGE" = "Receive reminders when trying to open an app or website that's blocked, and when a suspended filter is about to recommence.\n\nWe need permission to share these reminders with you.";
+"PERMISSION_NOTIFICATION_PREREQUEST_SUSPENDFILTER_TITLE" = "Suspend Filter Reminders";
+"PERMISSION_NOTIFICATION_PREREQUEST_SUSPENDFILTER_MESSAGE" = "You'll receive a reminder when there's one minute remaining before app/website filtering will resume.\n\nWe need permission to share these reminders with you.";
+
+"ONBOARDING_INCOMPLETE_TITLE_IOS" = "⚠️ Ochi Setup Incomplete ⚠️";
+"ONBOARDING_INCOMPLETE_MESSAGE_IOS" = "To apply app & website filtering, configure automations in the Shortcuts app and enable the Safari Web Extension.";
+
+"NEWAPP_HEADING" = "Enter a name.";
+"NEWAPP_INPUTPLACEHOLDER" = "Facebook / Games";
+"NEWAPP_ADD_UNABLE" = "Unable to add this app.";
+"NEWAPP_ADD_INUSE" = "This name is already in use.";
+"NEWAPP_FOOTER" = "Add the name of an app, or use a common name such as \"Games\" to represent a group of apps assigned to an *App Is Opened* automation. This will appear as a parameter for the *App Open Check* shortcut.";
+
+"NEWWEBSITE_HEADER_IOS" = "Website name & URL";
+"NEWWEBSITE_FOOTER" = "http/https prefix not required";
+"NEWWEBSITE_HEADER_MAC" = "Enter a website name & URL.";
+
+"NEWFILTER_GETSTARTED" = "Create a filter to get started!";
+"NEWFILTER_FILTERNAME_IOS" = "Filter name";
+"NEWFILTER_FILTERNAME_MAC" = "Enter a filter name.";
+"NEWFILTER_PLACEHOLDER" = "Productivity";
+
+"SETTING_REQUIREPASSWORD_EDIT" = "Edit Filters";
+"SETTING_REQUIREPASSWORD_VIEWEDIT" = "View & Edit Filters";
+"SETTING_REQUIREPASSWORD_OFF" = "Off";
+
+"WEBSITECATEGORY_FOOTER" = "Website Categories are only applied for the blocking action.";
+
+"STARTFILTER_NOFILTERS" = "No Filters Created";
+"STARTFILTER_CONFIGURATION_FOOTER_GRACEPERIOD_ACTIVE" = "Timed filters can be cancelled within the first minute of starting.";
+"STARTFILTER_CONFIGURATION_FOOTER_GRACEPERIOD_INACTIVE" = "Timed filters can only be temporarily suspended after starting.";
+"STARTFILTER_ERROR_TITLE" = "Start Filter Error";
+"STARTFILTER_ERROR_REPLACETIMEDWITHUNTIMED" = "An untimed filter can't replace an active timed filter.";
+"STARTFILTER_ERROR_UPDATEWITHSHORTERDURATION" = "An active filter's duration can't be reduced.";
+"STARTFILTER_ERROR_FETCHFILTERDETAILS" = "Unable to fetch filter details.";
+"STARTFILTER_TIMEDFILTERDISCLAIMER" = "Timed filters are limited to 12 hours.";
+
+"ALERT_DELETE_TITLE %@" = "Delete %@";
+"DELETEFILTER_MESSAGE" = "Are you sure you want to delete this filter?";
+"DELETEAPP_MESSAGE" = "Are you sure you want to delete this app?";
+
+"DUPLICATEFILTER_NAME %@" = "%@ Copy";
+
+"AUTHENTICATION_CURRENTSTATE" = "Current State";
+"AUTHENTICATION_LOCKAFTER" = "Lock After";
+"AUTHENTICATION_ERROR_TITLE" = "Authentication Error";
+"AUTHENTICATION_DISABLED_TITLE" = "Filter Restrictions Inactive";
+"AUTHENTICATION_DISABLED_MESSAGE_IOS" = "Enable filter view/edit restrictions in Settings.";
+"AUTHENTICATION_DISABLED_MESSAGE_MAC" = "Enable filter view/edit restrictions in Preferences.";
+
+"APPQUIT_TITLE" = "There is an active filter running.";
+"APPQUIT_MESSAGE" = "Ochi can't be closed while there is an active filter, but can be force quit via Activity Monitor.";
+
+"ABOUT_EMAILSUPPORT" = "Email Support";
+"ABOUT_NEWSLETTER" = "Join the Newsletter! (Zero spam.)";
+
+"AUTOMATIONS_HEADING" = "These automations will be triggered when this filter starts or stops.";
+"AUTOMATIONS_NOSHORTCUT" = "No Shortcut Set";
+"AUTOMATIONS_CREATESHORTCUT" = "Create Shortcut";
+"AUTOMATIONS_OPENSHORTCUTS" = "Open Shortcuts";
+"AUTOMATIONS_TIP_TITLE" = "Quick Tip:";
+"AUTOMATIONS_TIP_1" = "Create & assign two shortcuts that turn a Focus on/off.";
+"AUTOMATIONS_TIP_2" = "On iPhone & iPad, create a shortcut automation that enables an Ochi filter when a Focus becomes active";
+"AUTOMATIONS_SELECTSHORTCUT" = "Select a Shortcut";
+
+"SELECTAPPS_HEADING" = "My Apps / Categories";
+
+"APPBLOCKED_TITLE" = "🚨 %@ Blocked 🚨";
+"APPBLOCKED_MESSAGE" = "You're not allowed to access %@ right now.";
+
+"WELCOME_HEADER" = "Welcome to Ochi! 👋";
+"WELCOME_SETUP_HEADER" = "Let's get set up.";
+"WELCOME_SETUP_STEP1_IOSCOMPACT %@" = "Create a filter by selecting the **%@ Filters** tab.";
+"WELCOME_SETUP_STEP1_IOSREGULAR %@" = "Create a filter by selecting **%@ New Filter**.";
+"WELCOME_SETUP_STEP1_MAC %@" = "Create a filter by selecting **%@ New Filter**.";
+"WELCOME_SETUP_STEP2" = "Add some apps & websites that you want to restrict access to.";
+"WELCOME_SETUP_STEP3_IOS" = "Follow the *App & Website Checklist* to configure blocking on this device";
+"WELCOME_SETUP_STEP3_MAC" = "Select %@ to block distractions! ✨";
+
+"CHECKLIST_HEADING" = "App & Website Checklist";
+"CHECKLIST_AUTOMATIONS" = "Create 'App Open Check' automations to restrict app access";
+"CHECKLIST_SAFARIEXTENSION" = "Turn on the Safari Web Extension to restrict website access.";
+
+"RECOMMENDEDAPPS_MAC_HEADER" = "Recommended Mac Apps";
+"RECOMMENDEDAPPS_MAC_DESCRIPTION" = "Block the following apps to prevent quitting Ochi while a filter is active.";
+
+"FILTERDETAILS_PICKER" = "Filter Section";
+"FILTERDETAILS_BEHAVIOR" = "Filter Behavior";
+"FILTERDETAILS_FILTERACTION_WEBSITE" = "Website Filter Action";
+"FILTERDETAILS_FILTERACTION_APP" = "App Filter Action";
+
+"PERMISSION_BIOMETRICS" = "Enable/Disable editing and/or viewing filter details.";
+
+"FILTERSTATS_DIFFERENCEYESTERDAY" = "%@ from yesterday";
+
+"SIDEBAR_EMPTYSTATE" = "Select a filter.";
+"SIDEBAR_CREATEFILTER" = "Create a filter!";
+
+"SCHEDULE_DELETE_TITLE" = "Delete Scheduled Filter";
+"SCHEDULE_DELETE_MESSAGE" = "Are you sure you want to delete this scheduled filter? It will also be removed from all other devices.";
+"SCHEDULE_FILTERPICKER" = "Showing";
+"SCHEDULE_FILTERPICKER_ENABLED" = "Enabled";
+"SCHEDULE_FILTERPICKER_ALL" = "All";
+"SCHEDULE_NONE" = "No Scheduled Filters";
+
+"NEWSCHEDULE_ADDNOTES" = "Add Notes";
+"NEWSCHEDULE_TIMEDFILTERDISCLAIMER" = "Untimed filters cannot replace active Timed filters. Scheduled filters are limited to 12 hours.";
+"NEWSCHEDULE_REPEATDAYS" = "Repeat Days";
+"NEWSCHEDULE_AUTOSTARTMATCHING_TITLE" = "Current Time Matching";
+"NEWSCHEDULE_AUTOSTARTMATCHING_MESSAGE" = "This filter is scheduled to begin now. Do you want to start the filter?";
+
+"CHECKLIST_AUTOMATIONS_STEP1" = "Open the Settings app";
+"CHECKLIST_AUTOMATIONS_STEP2" = "Select Safari";
+"CHECKLIST_AUTOMATIONS_STEP3" = "Select Extensions";
+"CHECKLIST_AUTOMATIONS_STEP4" = "Select Ochi";
+"CHECKLIST_AUTOMATIONS_STEP5" = "Turn Ochi On";
+"CHECKLIST_AUTOMATIONS_STEP6" = "Select \"All Websites - Allow\"";
+
+"CHECKLIST_SAFARIEXTENSION_STEP1" = "Open the Shortcuts app";
+"CHECKLIST_SAFARIEXTENSION_STEP2" = "Select Automations";
+"CHECKLIST_SAFARIEXTENSION_STEP3" = "Create a Personal Automation";
+"CHECKLIST_SAFARIEXTENSION_STEP4" = "Select App";
+"CHECKLIST_SAFARIEXTENSION_STEP5" = "Choose one or more apps";
+"CHECKLIST_SAFARIEXTENSION_STEP6" = "Check \"Is Opened\"";
+"CHECKLIST_SAFARIEXTENSION_STEP7" = "Add an Ochi \"App Open Check\" action";
+"CHECKLIST_SAFARIEXTENSION_STEP8" = "Select the matching app name";
+"CHECKLIST_SAFARIEXTENSION_STEP9" = "Uncheck \"Ask Before Running\"";
+
+"SUSPENDFILTER_FOR" = "Suspend for";
+"SUSPENDFILTER_DISABLED_1" = "Suspend Filter disabled.";
+"SUSPENDFILTER_DISABLED_2" = "Adjust suspend values in Settings.";
+"SUSPENDFILTER_USED" = "%@ minutes used, from %@ available minutes.";
+
+"WIDGET_CURRENTFILTERS_TITLE" = "Current Filters Widget";
+"WIDGET_CURRENTFILTERS_DESCRIPTION" = "Observe the current filter state.";
+"WIDGET_CURRENTFILTERS_ENDING" = "Ending %@";
+"WIDGET_CURRENTFILTERS_NONE" = "No Active Filters";
+"WIDGET_STARTFILTER_TITLE" = "Start Filter Widget";
+"WIDGET_STARTFILTER_DESCRIPTION" = "Start a filter.";
+"WIDGET_STARTFILTER_CREATE" = "Create a filter first.";
+
+"FILTER_NAME_EMPTY" = "Select a Filter";
+"FILTER_NAME_NOMATCH" = "No Matching Filter";
+
+"FILTER_PROMO_BLOCKEVERYTHING" = "Block Everything";
+"FILTER_PROMO_SOCIALMEDIA" = "Social Media";
+"FILTER_PROMO_BEDTIME" = "Bed Time";
+"FILTER_PROMO_NOEMAIL" = "No Email";
+"FILTER_PROMO_WORKAPPS" = "Work Apps Only";
+
+"SECONDS_30" = "30 Seconds";
+"MINUTES_1" = "1 Minute";
+"MINUTES_2" = "2 Minutes";
+"MINUTES_5" = "5 Minutes";
+"MINUTES_10" = "10 Minutes";
+"MINUTES_15" = "15 Minutes";
+"MINUTES_30" = "30 Minutes";
+"MINUTES_45" = "45 Minutes";
+"MINUTES_60" = "1 Hour";
+
+"REDIRECT_OCHI" = "Filter Active Page";
+"REDIRECT_BLANK" = "Blank Page";
+"REDIRECT_OTHER" = "Other";
+
+"APPPICKER_TITLE" = "Select apps to add to the filter.";

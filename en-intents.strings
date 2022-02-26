@@ -1,0 +1,44 @@
+/* 
+  OchiIntents.strings
+  FocusedWork
+
+  Created by Michael Tigas on 10/10/21.
+  Copyright © 2021 Michael Tigas. All rights reserved.
+*/
+
+// Get Filter State
+"9LSQbV" = "Get Filter State";
+"2EPYkz" = "Return filter state and active filters";
+
+// App Open Check
+"jZg7it" = "App Open Check";
+"nVsZPL" = "Check whether a particular app or category of apps can be opened, and close it if not. Attach this shortcut to an App Is Opened automation.";
+
+// Suspend Filter
+"pJE1LD" = "Suspend Filter";
+"NStZzj" = "Suspend the current filters. Available in Ochi Pro.";
+
+// Stop Filter
+"rhPghI" = "Stop Filter";
+"57y1Ja" = "Stop an active filter.";
+
+// Stop Untimed Filters
+"5FLW59" = "Stop Untimed Filters";
+"4SUQCN" = "Stop all active untimed filters.";
+
+// Start Filter
+"lajVbc" = "Start Filter";
+"ilf1DT" = "Start a filter.";
+"rgoxTU" = "Filter Type";
+
+// Current Filters Configuration
+"p0o4Bz" = "Current Filters Configuration";
+"FeCIpu" = "Observe the current filter state.";
+
+// Start Filter Configuration
+"6fb7ol" = "Start Filter Configuration";
+"De20y3" = "Start a filter.";
+
+// Filter Type
+"xj8bQ3" = "Untimed";
+"uFuC71" = "Timed";
