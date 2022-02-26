@@ -1,0 +1,67 @@
+/* 
+  StoreMetadata.strings
+  Ochi
+
+  Created by Michael Tigas on 27/2/2022.
+  
+*/
+
+/* TRANSLATOR NAME & INFO */
+/* Name: Michael Tigas */
+/* Twitter: @michael_Tigas */
+
+"STORE_TITLE" = "Ochi - Block Apps & Websites"; // 30 char max
+"STORE_SUBTITLE" = "Study, Focus, Time Management"; // 29 char or less
+
+"SCREENSHOT_IPHONE_1" = "Block distracting Apps & Websites on iPhone, iPad, and Mac."
+"SCREENSHOT_IPHONE_2" = "Create filters that Block or Allow."
+"SCREENSHOT_IPHONE_3" = "Schedule daily recurring filters."
+"SCREENSHOT_IPHONE_4" = "iOS Apps. Mac Apps. Websites."
+"SCREENSHOT_IPHONE_5" = "Start a filter to avoid distractions."
+"SCREENSHOT_IPHONE_6" = "Auto-enable filters when Focus is active."
+"SCREENSHOT_IPHONE_7" = "Keep filter details private with Face ID."
+"SCREENSHOT_IPHONE_8" = "Integrate Ochi into your workflow with Shortcuts."
+"SCREENSHOT_IPHONE_9" = "Quickly start filters with Widgets."
+
+"SCREENSHOT_IPAD_1" = "Block distracting Apps & Websites across iPad, iPhone, and Mac."
+"SCREENSHOT_IPAD_2" = "Create filters that Block or Allow. iOS Apps, Mac Apps, and Websites."
+"SCREENSHOT_IPAD_3" = "Schedule daily recurring filters."
+"SCREENSHOT_IPAD_4" = "Start a filter to avoid distractions."
+"SCREENSHOT_IPAD_5" = "Automatically enable filters when a Focus is turned on."
+"SCREENSHOT_IPAD_6" = "Integrate Ochi into your workflow with Shortcuts."
+"SCREENSHOT_IPAD_7_FACEID" = "Keep filter details private with Face ID."
+"SCREENSHOT_IPAD_7_TOUCHID" = "Keep filter details private with Touch ID."
+"SCREENSHOT_IPAD_8" = "Quickly start filters with Widgets."
+
+"SCREENSHOT_MAC_1" = "Block distracting Apps & Websites across Mac, iPhone, and iPad."
+"SCREENSHOT_MAC_2" = "Create filters that Block or Allow. iOS Apps, Mac Apps, and Websites."
+"SCREENSHOT_MAC_3" = "Schedule daily recurring filters."
+"SCREENSHOT_MAC_4" = "Seamlessly turn on Focus and enable filters on other devices."
+"SCREENSHOT_MAC_5" = "Keep filter details private with Touch ID or Apple Watch unlock."
+"SCREENSHOT_MAC_6" = "Start a filter to avoid distractions."
+"SCREENSHOT_MAC_7" = "Integrate Ochi into your workflow with Shortcuts."
+
+"STORE_DESCRIPTION" = "
+Block distracting apps & websites on all devices.
+
+Create timed filters that help you stay focused and spend your time wisely on iPhone, iPad, and Mac.
+
+Ochi was built for people that want to quickly block distracting apps & websites, at the press of a button. Configure filters for managing distractions during the day, and when it's time to go to bed.
+
+Features
+• Block access to iOS apps, Mac apps, and Websites
+• Filter websites by category, including Social Media, Chat, and News
+• Apply multiple timed or untimed filters, with different rules
+• Schedule daily recurring filters
+• Limit how often filters can be temporarily suspended
+• Lock & hide sensitive filter details
+• Assign shortcuts to filters that turn on Focus and filters on other devices
+• Integrate Ochi into your workflow with Shortcut automations
+• Sync filters between iPhone, iPad, and Mac
+• Themeable widgets for quickly starting a filter
+
+If you have any questions, please reach out to ochi@michaeltigas.com.au
+
+Privacy Policy: https://ochithe.app/privacypolicy/
+Terms of Use: https://ochithe.app/termsofuse/
+"
